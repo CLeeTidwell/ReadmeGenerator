@@ -1,6 +1,4 @@
-# Week 9 Assignment
-
-## Readme Generator
+# Readme Generator
 
 ## Table of Contents
 
