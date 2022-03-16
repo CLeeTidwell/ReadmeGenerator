@@ -28,7 +28,7 @@ const questions = [
     },
     {
         type: 'input',
-        message: 'What are the guidelines for contributing to the application?',
+        message: 'Who/what are the contributors included in this project?',
         name: 'contributions'
     },
     {
