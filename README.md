@@ -55,7 +55,7 @@ THEN I am taken to the corresponding section of the README
 
 ## Screenshots
 
-To view this project in action, visit this link below
+To view this project in action, visit this link here - 
 https://drive.google.com/file/d/1ZWShUDcEFhYo1uCjT-vTdKVLJr-stfHa/view?usp=sharing
 
 ## License
